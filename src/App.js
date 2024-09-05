@@ -38,7 +38,7 @@ const App = () => {
 
     return (
         <div className="app-container">
-          <h4>Father make believe for your daughters<br></br>
+          <h4 className='pashalko'>Father make believe for your daughters<br></br>
 Mother take it easy on your sons<br></br>
 Sister balance like a tightrope walker<br></br>
 But for now, you got to keep them young</h4>
